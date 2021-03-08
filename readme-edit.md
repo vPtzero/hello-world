@@ -1,5 +1,5 @@
 # hello-world
-Not sour of anything 
+Not sure of anything 
 
 Hello old tree!
 
